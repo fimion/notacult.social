@@ -1,0 +1,19 @@
+{
+  "name": "notacult.social",
+  "version": "1.0.0",
+  "description": "Styles and stuff",
+  "main": "main.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fimion/notacult.social.git"
+  },
+  "author": "fimion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fimion/notacult.social/issues"
+  },
+  "homepage": "https://github.com/fimion/notacult.social#readme"
+}

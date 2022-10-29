@@ -1,0 +1,127 @@
+@font-face {
+    font-family: 'Comic Neue';
+    src: local('Comic Neue Light'), local('ComicNeue-Light'),
+        url('./fonts/ComicNeue-Light.woff2') format('woff2'),
+        url('./fonts/ComicNeue-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Neue';
+    src: local('Comic Neue Italic'), local('ComicNeue-Italic'),
+        url('./fonts/ComicNeue-Italic.woff2') format('woff2'),
+        url('./fonts/ComicNeue-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Neue';
+    src: local('Comic Neue Bold'), local('ComicNeue-Bold'),
+        url('./fonts/ComicNeue-Bold.woff2') format('woff2'),
+        url('./fonts/ComicNeue-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Neue';
+    src: local('Comic Neue Bold Italic'), local('ComicNeue-BoldItalic'),
+        url('./fonts/ComicNeue-BoldItalic.woff2') format('woff2'),
+        url('./fonts/ComicNeue-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Neue';
+    src: local('Comic Neue Light Italic'), local('ComicNeue-LightItalic'),
+        url('./fonts/ComicNeue-LightItalic.woff2') format('woff2'),
+        url('./fonts/ComicNeue-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Neue';
+    src: local('Comic Neue Regular'), local('ComicNeue-Regular'),
+        url('./fonts/ComicNeue-Regular.woff2') format('woff2'),
+        url('./fonts/ComicNeue-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Neue Angular';
+    src: local('Comic Neue Angular Bold'), local('ComicNeueAngular-Bold'),
+        url('./fonts/ComicNeueAngular-Bold.woff2') format('woff2'),
+        url('./fonts/ComicNeueAngular-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Neue Angular';
+    src: local('Comic Neue Angular Italic'), local('ComicNeueAngular-Italic'),
+        url('./fonts/ComicNeueAngular-Italic.woff2') format('woff2'),
+        url('./fonts/ComicNeueAngular-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Neue Angular';
+    src: local('Comic Neue Angular Bold Italic'), local('ComicNeueAngular-BoldItalic'),
+        url('./fonts/ComicNeueAngular-BoldItalic.woff2') format('woff2'),
+        url('./fonts/ComicNeueAngular-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Neue Angular';
+    src: local('Comic Neue Angular Light Italic'), local('ComicNeueAngular-LightItalic'),
+        url('./fonts/ComicNeueAngular-LightItalic.woff2') format('woff2'),
+        url('./fonts/ComicNeueAngular-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Neue Angular';
+    src: local('Comic Neue Angular Regular'), local('ComicNeueAngular-Regular'),
+        url('./fonts/ComicNeueAngular-Regular.woff2') format('woff2'),
+        url('./fonts/ComicNeueAngular-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Neue Angular';
+    src: local('Comic Neue Angular Light'), local('ComicNeueAngular-Light'),
+        url('./fonts/ComicNeueAngular-Light.woff2') format('woff2'),
+        url('./fonts/ComicNeueAngular-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+:root:root:root body{
+    font-family: 'Comic Neue Angular', 'mastodon-font-sans-serif', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Comic Neue', 'mastodon-font-sans-serif', sans-serif;
+}
